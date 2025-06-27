@@ -3,7 +3,7 @@
 
  specifically focusses on the handling of password confirmation fields.
 
- the challenge hint suggests exploiting the "Don't Repeat Yourself" (DRY) principle, which in this context implies that the system should not rely on redundant user input to function correctly.
+ the challenge hint suggests exploiting the "Don't Repeat Yourself" (DRY) principle, which in this context implies that the system should not rely on redundant user input to function correctly. 
 
 here i repeated the password string in the first password field and still i have been registered as a user.
 
