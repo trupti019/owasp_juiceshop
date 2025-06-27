@@ -6,7 +6,7 @@ This challenge ask us to retrieve a specific image from a web application that f
 This involves understanding how web browsers handle URLs and the importance of proper URL encoding.
 
 I used an online url encoding tool here.
- Inspecting the element using browser developer tools showed that the src attribute of the image tag contained special characters (emoji) which were not URL encoded.
+ Inspecting the element using browser developer tools showed that the src attribute of the image tag contained special characters (emoji) which were not URL encoded. 
 
 
  I replaced the special charater (#) with %23
