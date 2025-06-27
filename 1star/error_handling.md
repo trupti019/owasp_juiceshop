@@ -4,7 +4,7 @@
 Solved by two methods:
 
 1.Using Wirehark:
-
+ 
 Here, i provoked an error that reveals backend details due to improper error handling or nonsystematic erroe handling.
 
 I followed these steps:
